@@ -14,6 +14,8 @@ to operate online.
 
 ![Image of Webpage](assets/images/Horiseon Page.png)
 
+Website: https://wnicoles.github.io/Project-Horiseon/
+
 ## License
  
  MIT License
