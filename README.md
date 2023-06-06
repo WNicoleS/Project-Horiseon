@@ -11,3 +11,10 @@ a cleaner format. Although there are multiple paths to a similar outcome, how th
 
 Allow this site to act as a reminder of practices that should considered by businesses that choose
 to operate online.
+
+![Image of Webpage](assets/images/Horiseon Page.png)
+
+## License
+ 
+ MIT License
+    
