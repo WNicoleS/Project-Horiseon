@@ -27,6 +27,10 @@ Click the link below to access the website.
 
 Website: https://wnicoles.github.io/Project-Horiseon/
 
+## Credits
+
+Starter code from Xandromus's urban-octo-telegram.
+
 ## License
  
  MIT License
