@@ -1,13 +1,16 @@
+/*Allows the entire page to to have not margins and reach the edge of the page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*The color of the background across the entire body*/
 body {
     background-color: #d9dcd6;
 }
 
+/*The stripe at the top of the page*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ header {
     color: #ffffff;
 }
 
+/*"Horiseon" at the top of the page*/
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*Applies to the "seo" in "Hroiseon in the header"*/
 .seo {
     color: #d9dcd6;
 }
 
+/*Applies to the links in the header*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +38,7 @@ header nav {
     font-size: 20px;
 }
 
+/*Specifies the the unordered list element in the nav*/
 header nav ul {
     list-style-type: none;    
 }
@@ -41,15 +48,18 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*Applies to the links in the header*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Applies to all paragraphs*/
 p {
     font-size: 16px;
 }
 
+/*Refers to the image that covers the top half of the page*/
 figure {
     height: 800px;
     width: 100%;
@@ -59,26 +69,31 @@ figure {
     background-position: center;
 }
 
+/*Has the images in Search Engine Optimization and Social Media Marketing*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Refers to the image in Online Reputation Management*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Applies to Search Engine Optimization, Online Reputation Management, and Social Media Marketing sections */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Applies to the three images in the main section*/
 main img {
     max-height: 200px;
 }
 
+/*Refers to the classes in main*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -90,6 +105,7 @@ main img {
     color: #ffffff;
 }    
 
+/*Applies to the headers in main*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2  {
@@ -97,6 +113,7 @@ main img {
     font-size: 36px;
 }
 
+/*Applies to the Benefits section to the right*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -108,6 +125,7 @@ aside {
     background-color: #2589bd;
 }
 
+/*Applies to the benefit classes in the aside element*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -115,6 +133,7 @@ aside {
     color: #ffffff;
 }
 
+/*Applies to the headers in the aside element*/
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -122,6 +141,7 @@ aside {
     text-align: center;
 }
 
+/*Applies to the icons seen in the aside element*/
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -130,6 +150,7 @@ aside {
     max-width: 150px;
 }
 
+/*Applies to the credits at the bottom of the page*/
 footer {
     padding: 30px;
     clear: both;
@@ -137,6 +158,7 @@ footer {
     text-align: center;
 }
 
+/*Applies to the bold text in the footer*/
 footer h4 {
     font-size: 20px;
 }
