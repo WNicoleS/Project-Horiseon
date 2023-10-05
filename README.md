@@ -1,18 +1,29 @@
 # Project-Horiseon
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
-The purpose of Horiseon is to provide information on factors businesses need to look out for
+The purpose of Horiseon is to provide information on factors businesses need to look out for 
 if they hope to be successful in the online marketplace. The code for the site needed to be refactored 
 due to it not meeting accessibility standards and in general having the potential to be presented in 
 a cleaner format. Although there are multiple paths to a similar outcome, how the code is laid out can help it be more readable and follow more conventional standards.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+Not necessary
+
 ## Usage
 
-Allow this site to act as a reminder of practices that should considered by businesses that choose
-to operate online.
+Click the link below to access the website.
 
-![Image of Webpage](assets/images/Horiseon Page.png)
+![Screenshot of Horiseon webpage](assets/images/HoriseonWebpage.png)
 
 Website: https://wnicoles.github.io/Project-Horiseon/
 
