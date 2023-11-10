@@ -11,10 +11,15 @@ a cleaner format. Although there are multiple paths to a similar outcome, how th
 
 ## Table of Contents
 
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+
+## Technologies Used
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Installation
 Not necessary
